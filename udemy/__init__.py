@@ -11,7 +11,7 @@ api_hash = os.environ.get('API_HASH')
 START = """
 Hey, I'm an UdemyBot. ⚡
 
-I can send you free Udemy Courses Links.
+I can send you 100% discounted Udemy courses.
 
 Commands:
     /discudemy page
@@ -20,6 +20,8 @@ Commands:
     /real_discount page
     /coursevania
     /idcoupons page
+
+Example:  `/discudemy 2`
 
 page - which page you wanted to scrap and send links. Default is 1
 
