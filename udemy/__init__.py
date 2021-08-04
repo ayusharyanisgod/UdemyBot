@@ -22,6 +22,8 @@ Commands:
     /idcoupons page
 
 page - which page you wanted to scrap and send links. Default is 1
+
+🔥🔥 Join: @TPVNetwork 🏃‍♂️
 """
 
 CMD = "(discudemy|coursevania|udemy_freebies|tutorialbar|real_discount|idcoupons)"
