@@ -25,7 +25,7 @@ async def _(event):
     if len(_cmd) == 2:
         page = _cmd[1]
     scp = Scrapper()
-    msg = await event.reply("Wait...")
+    msg = await event.reply("Wait... 🏃‍♂🏃‍♂")
     if cmd == "/discudemy":
         if not page:
             page = 1
